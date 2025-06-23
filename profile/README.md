@@ -1,5 +1,5 @@
-| Name | Description | Language | Status  |
-|------|-------------|----------|---------|
+| Project | Description | Language | Status  |
+|---------|-------------|----------|---------|
 | [**rsl**](https://github.com/rsl-org/rsl) | Meta repository containing all rsl subprojects | [![Top Language](https://img.shields.io/github/languages/top/rsl-org/rsl)](https://github.com/rsl-org/rsl/graphs/commit-activity) | [![CI](https://github.com/rsl-org/rsl/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/rsl-org/rsl/actions/workflows/ci.yml) |
 | [**rsl::test**](https://github.com/rsl-org/test) | A reflective unit test framework | [![Top Language](https://img.shields.io/github/languages/top/rsl-org/test)](https://github.com/rsl-org/test/graphs/commit-activity) | [![CI](https://github.com/rsl-org/test/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/rsl-org/test/actions/workflows/ci.yml) |
 | [**rsl::config**](https://github.com/rsl-org/config) | A reflective command line argument and config library | [![Top Language](https://img.shields.io/github/languages/top/rsl-org/config)](https://github.com/rsl-org/config/graphs/commit-activity) | [![CI](https://github.com/rsl-org/config/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/rsl-org/config/actions/workflows/ci.yml) |
