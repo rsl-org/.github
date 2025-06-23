@@ -1,3 +1,9 @@
+# The **R**eflective **S**upport **L**ibrary project
+The goal of this project is to give you a sneak peek at tomorrow's libraries by using C++26 reflection to its fullest extent.
+
+The reflective support library project consist of several subprojects. You can use the primary [**rsl**](https://github.com/rsl-org/rsl) meta-repository to pull in all subprojects.
+
+## Subprojects
 | Project | Description |
 |---------|-------------|
 | [**rsl**](https://github.com/rsl-org/rsl) | Meta repository containing all rsl subprojects |
